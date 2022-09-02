@@ -1,0 +1,301 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+.mainHeader {
+    text-align: center;
+    background-image: linear-gradient(to right, rgba(255,0,0,0), rgba(255,0,0,1));
+}
+ul{
+    margin: 0px;
+    padding: 0px;
+}
+.my _menu{
+        position: absolute;
+         width: 100%;
+         height: 50px;
+         background-color:black;
+}
+.Menu li{
+    list-style: none;
+    width: 160px;
+    height: 50px;
+    background-color: rgb(184, 30, 30);
+    margin-left: 5px;
+    text-align: center;
+    line-height:50px ;
+    float: left;
+}
+Menu li:hover{
+    background-color: black;
+}
+.Menu li a:hover{
+    color:black;
+}
+
+.Menu li a{
+    color: rgb(201, 42, 42);
+    display: block;
+    text-decoration: none;
+}
+.logo{
+    width: 60px;
+}
+.logo_li:hover{
+    color: rgb(77, 216, 95);
+    background-color: dodgerblue!important;
+}
+.logo_li a{
+    font-size: 5px;
+    background-color: #fff;
+}
+.logo_li a:hover{
+    color: white !important;
+}
+.Menu ul li{
+    margin: 0px;
+}
+.Menu ul{
+    display: none;
+}
+.Menu li:hover ul{
+    display: block;
+}
+banner*/
+#banner{
+    width: 100%;
+}
+#banner img{
+    margin-top: 50px;
+    width: 100%;
+
+}
+/*why_choose us*/
+#why_choose{
+    width: 100%;
+    text-align: center;
+   
+}
+
+#why_choose h1{
+    margin: 0 auto;
+    width: 300px;
+    font-size: 30px;
+    color: red;
+    border-bottom: 2px solid red;
+    
+    
+}
+.div_section1{
+    width: 20%;
+    height: 300px;
+    margin: 10px;
+    
+    float: left;
+    
+  
+
+}
+.image{ 
+width: 80px;
+height: 80px;
+border: 1px solid grey;
+margin: 10px auto;
+line-height: 20px;
+font-size: 50px;
+background-color: darkred;
+color: white;
+border-radius: 100px;
+
+
+
+}
+.icon:hover{
+    font-size: 40px;
+}
+/*section2*/
+.section2{
+    display: inline-block;
+    width: 100%;
+    text-align: center;   
+}
+.section2 h1{
+    margin: 0 auto;
+    width: 200px;
+    font-size: 5px;
+    color:#fff;
+    border-bottom: 2px solid red;  
+}
+.div_section2{
+    width: 30%;
+    height: 300px;
+   margin:auto;
+    float: left;   
+}
+.div_section2 img{
+    width: 100%;
+}
+/*footer*/
+.footer{
+    position: absolute;
+    width: 100%;
+    height: auto;
+        background-color:black;
+    color:white;
+    margin: left;
+
+}
+.footer_div{
+    width: 20%;
+    height: auto;
+    margin: 30px;
+    float: left;
+}
+.footer_div h1{
+        color:red;
+}
+.footer_div p{
+    color:white;
+}
+.footer_div button{
+    margin-top: 20px;
+    background-color: red;
+    border: none;
+    color: white;
+    width: 120px;
+    height: 50px;
+}
+.footer_div ul li{
+    list-style: none;
+}
+.footer_div ul li a{
+    color: white;
+    font-size: 18px;
+    text-decoration: none;
+    font-weight: bold;
+}
+.SOCIAL_lINKS{
+    color: white;
+    
+}
+.under_footer{
+    display: inline-block;
+    width: 100%;
+    height: 60px;
+    text-align: center;
+    background-color: white;
+}
+.footer1{
+    width: 50%;
+    float: left;
+}
+.footer1 p{
+    color:black;
+}Menu li:hover{
+    background-color: black;
+}
+.Menu li a:hover{
+    color:red;
+}
+
+.Menu li a{
+    color: white;
+    display: block;
+    text-decoration: none;
+}
+.logo{
+    width: 60px;
+}
+.logo_li:hover{
+    color: white;
+    background-color: dodgerblue!important;
+}
+.logo_li a{
+    font-size: 5px;
+    /* background-color: orangered; */
+}
+.logo_li a:hover{
+    color: white !important;
+}
+.Menu ul li{
+    margin: 0px;
+}
+.Menu ul{
+    display: none;
+}
+.Menu li:hover ul{
+    display: block;
+}
+banner*/
+#banner{
+    width: 100%;
+}
+#banner img{
+    margin-top: 50px;
+    width: 100%;
+
+}
+/*why_choose us*/
+#why_choose{
+    width: 100%;
+    text-align: center;
+   
+}
+
+#why_choose h1{
+    margin: 0 auto;
+    width: 300px;
+    font-size: 30px;
+    color: red;
+    border-bottom: 2px solid red;
+    
+    
+}
+.div_section1{
+    width: 20%;
+    height: 300px;
+    margin: 10px;
+   float: left;
+    
+  
+
+}
+.image{ 
+width: 80px;
+height: 80px;
+border: 1px solid grey;
+margin: 10pxauto;
+line-height: 20px;
+font-size: 50px;
+background-color: darkred;
+color: white;
+border-radius: 100px;
+
+
+
+}
+.icon:hover{
+    font-size: 40px;
+}
+/*section2*/
+.section2{
+    display: inline-block;
+    width: 100%;
+    text-align: center;   
+}
+.section2 h1{
+    margin: 0 auto;
+    width: 200px;
+    font-size: 5px;
+    color: red;
+    border-bottom: 2px solid red;  
+}
+.div_section2{
+    width: 30%;
+    height: 300px;
+    margin: 20px;
+    float: left;   
+}
+.div_section2 img{
+    width: 100%;
+}
